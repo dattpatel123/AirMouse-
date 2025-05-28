@@ -1,0 +1,10 @@
+# Virtual environment folder
+venv/
+
+# Environment variables file
+.env
+
+
+__pycache__/
+*.pyc
+.DS_Store
